@@ -1,15 +1,13 @@
-Gradle Blank Project
-====================
+Spring Boot Hello World
+=======================
 
-A blank project with Gradle wrapper.
+A hello world application with Spring Boot, Groovy and Gradle.
 
 
-How to use
-----------
+Run
+---
 
-Clone the repository and invoke Gradle wrapper.
-
-```bash
-./gradlew
+```sh
+./gradlew bootRun
 ```
 
